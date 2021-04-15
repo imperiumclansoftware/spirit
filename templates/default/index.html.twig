@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Homepage{% endblock %}
+
+{% block stylesheets %}
+    {{ renderDashBoardcss('homepage') }}
+{% endblock %}
+
+{% block javascripts %} {{ renderDashBoardjs('homepage') }} {% endblock %}
+
+{% block body %}
+{{ renderDashBoard('homepage') }}
+{% endblock %}

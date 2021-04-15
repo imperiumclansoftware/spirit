@@ -1,3 +1,9 @@
 #index:
 #    path: /
 #    controller: App\Controller\DefaultController::index
+ssi_bundle:
+    resource: '@SsiBundle/config/routes.yaml'
+    prefix: /ssi
+dashboard_bundle:
+    resource: '@DashboardBundle/config/routes.yaml'
+    prefix: /dashboard
