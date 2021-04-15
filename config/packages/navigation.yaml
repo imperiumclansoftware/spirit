@@ -1,8 +1,8 @@
 navigation:
   navbars:
     mainnav:
-      brand: BrandText
-      brandIcon: fa fa-check
+      brand: Spirit
+      brandIcon: fa fa-ghost
       color: dark
       fixed: sticky
       searchenabled: true
@@ -15,7 +15,7 @@ navigation:
 
   usermenu:
     activate: true
-    connexionroute: homepage
+    connexionroute: ics_ssi_login
     autolib: false
     childs:
       admin:
@@ -25,4 +25,4 @@ navigation:
       logout:
         lib: Sign-out
         icon: fa fa-sign-out-alt
-        route: homepage
+        route: ics_ssi_logout

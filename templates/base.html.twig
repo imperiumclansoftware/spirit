@@ -16,7 +16,9 @@
         {% endblock %}
     </head>
     <body>
-        {{ renderNavBar('mainnav') }}
+        {% if is_granted('ROLE_USER') %}
+            {{ renderNavBar('mainnav') }}
+        {% endif %}
         {% block body %}{% endblock %}
     </body>
 </html>
