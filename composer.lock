@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "72d99bb50f80f49df5c71494c776f380",
+    "content-hash": "d57d06d1d6b5302b4d47023bfb88d42c",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1866,16 +1866,16 @@
         },
         {
             "name": "ics/navigation-bundle",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/navigation-bundle.git",
-                "reference": "8d09611dc450caf7d666e8ba7d193cbd6f664299"
+                "reference": "823a61267a874ba552f4ed6f9ddc2c117e4c37a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/navigation-bundle/zipball/8d09611dc450caf7d666e8ba7d193cbd6f664299",
-                "reference": "8d09611dc450caf7d666e8ba7d193cbd6f664299",
+                "url": "https://api.github.com/repos/imperiumclansoftware/navigation-bundle/zipball/823a61267a874ba552f4ed6f9ddc2c117e4c37a1",
+                "reference": "823a61267a874ba552f4ed6f9ddc2c117e4c37a1",
                 "shasum": ""
             },
             "require": {
@@ -1896,28 +1896,29 @@
             "description": "Bundle for symfony navigation",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/navigation-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/navigation-bundle/tree/v0.0.3"
+                "source": "https://github.com/imperiumclansoftware/navigation-bundle/tree/v0.0.4"
             },
-            "time": "2021-04-14T17:46:26+00:00"
+            "time": "2021-04-15T08:54:52+00:00"
         },
         {
             "name": "ics/ssi-bundle",
-            "version": "0.0.7",
+            "version": "0.0.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/ssi-bundle.git",
-                "reference": "e8a761a940349879232355091a7f5321357c1ed7"
+                "reference": "26ba026138d3319bedd9e1c21032038ac7902ec3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/e8a761a940349879232355091a7f5321357c1ed7",
-                "reference": "e8a761a940349879232355091a7f5321357c1ed7",
+                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/26ba026138d3319bedd9e1c21032038ac7902ec3",
+                "reference": "26ba026138d3319bedd9e1c21032038ac7902ec3",
                 "shasum": ""
             },
             "require": {
                 "doctrine/doctrine-fixtures-bundle": "^3.4",
                 "easycorp/easyadmin-bundle": "^3.2",
-                "ics/navigation-bundle": "^0.0.3",
+                "ics/dashboard-bundle": "^0.0.3",
+                "ics/navigation-bundle": "^0.0.4",
                 "symfony/config": "^4.4|^5.0",
                 "symfony/console": "^5.2",
                 "symfony/dependency-injection": "^4.4|^5.0",
@@ -1954,9 +1955,9 @@
             "description": "Bundle security extention",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/ssi-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.0.7"
+                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.0.8"
             },
-            "time": "2021-04-15T07:37:49+00:00"
+            "time": "2021-04-15T09:12:06+00:00"
         },
         {
             "name": "laminas/laminas-code",
