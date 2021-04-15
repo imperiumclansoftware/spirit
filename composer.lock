@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d57d06d1d6b5302b4d47023bfb88d42c",
+    "content-hash": "1a381a1d94bcca46ed55c6df4f4596d0",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1866,22 +1866,25 @@
         },
         {
             "name": "ics/navigation-bundle",
-            "version": "0.0.4",
+            "version": "0.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/navigation-bundle.git",
-                "reference": "823a61267a874ba552f4ed6f9ddc2c117e4c37a1"
+                "reference": "bf010bbbe1be1b6b0e42a9846b9da9a6cb444a69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/navigation-bundle/zipball/823a61267a874ba552f4ed6f9ddc2c117e4c37a1",
-                "reference": "823a61267a874ba552f4ed6f9ddc2c117e4c37a1",
+                "url": "https://api.github.com/repos/imperiumclansoftware/navigation-bundle/zipball/bf010bbbe1be1b6b0e42a9846b9da9a6cb444a69",
+                "reference": "bf010bbbe1be1b6b0e42a9846b9da9a6cb444a69",
                 "shasum": ""
             },
             "require": {
                 "symfony/config": "^5.2",
                 "symfony/framework-bundle": "^5.2",
-                "symfony/orm-pack": "^2.1"
+                "symfony/orm-pack": "^2.1",
+                "symfony/twig-bundle": "^5.2",
+                "twig/extra-bundle": "^3.3",
+                "twig/twig": "^3.3"
             },
             "type": "symfony-bundle",
             "autoload": {
@@ -1896,29 +1899,29 @@
             "description": "Bundle for symfony navigation",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/navigation-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/navigation-bundle/tree/v0.0.4"
+                "source": "https://github.com/imperiumclansoftware/navigation-bundle/tree/v0.0.5"
             },
-            "time": "2021-04-15T08:54:52+00:00"
+            "time": "2021-04-15T09:28:52+00:00"
         },
         {
             "name": "ics/ssi-bundle",
-            "version": "0.0.8",
+            "version": "0.0.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/ssi-bundle.git",
-                "reference": "26ba026138d3319bedd9e1c21032038ac7902ec3"
+                "reference": "955f14942d0b5b4dda6ba046c9d7d7fee65f3edc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/26ba026138d3319bedd9e1c21032038ac7902ec3",
-                "reference": "26ba026138d3319bedd9e1c21032038ac7902ec3",
+                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/955f14942d0b5b4dda6ba046c9d7d7fee65f3edc",
+                "reference": "955f14942d0b5b4dda6ba046c9d7d7fee65f3edc",
                 "shasum": ""
             },
             "require": {
                 "doctrine/doctrine-fixtures-bundle": "^3.4",
                 "easycorp/easyadmin-bundle": "^3.2",
                 "ics/dashboard-bundle": "^0.0.3",
-                "ics/navigation-bundle": "^0.0.4",
+                "ics/navigation-bundle": "^0.0.5",
                 "symfony/config": "^4.4|^5.0",
                 "symfony/console": "^5.2",
                 "symfony/dependency-injection": "^4.4|^5.0",
@@ -1955,9 +1958,9 @@
             "description": "Bundle security extention",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/ssi-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.0.8"
+                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.0.9"
             },
-            "time": "2021-04-15T09:12:06+00:00"
+            "time": "2021-04-15T09:31:07+00:00"
         },
         {
             "name": "laminas/laminas-code",
