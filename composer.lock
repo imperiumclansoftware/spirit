@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "fb72a901031f072b143ca69f3d9cbec5",
+    "content-hash": "788feb159a7333105530efa672c2f527",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1866,16 +1866,16 @@
         },
         {
             "name": "ics/medias-bundle",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/medias-bundle.git",
-                "reference": "0107261af14421bb94d95bde9e26cf9b46b26c2d"
+                "reference": "e79c5f4ec88bce4190d2d1e1bbaf8ecdc75efc44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/medias-bundle/zipball/0107261af14421bb94d95bde9e26cf9b46b26c2d",
-                "reference": "0107261af14421bb94d95bde9e26cf9b46b26c2d",
+                "url": "https://api.github.com/repos/imperiumclansoftware/medias-bundle/zipball/e79c5f4ec88bce4190d2d1e1bbaf8ecdc75efc44",
+                "reference": "e79c5f4ec88bce4190d2d1e1bbaf8ecdc75efc44",
                 "shasum": ""
             },
             "require": {
@@ -1903,9 +1903,9 @@
             "description": "File Manager for symfony",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/medias-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/medias-bundle/tree/v0.0.2"
+                "source": "https://github.com/imperiumclansoftware/medias-bundle/tree/v0.0.3"
             },
-            "time": "2021-04-15T15:21:44+00:00"
+            "time": "2021-04-16T07:28:41+00:00"
         },
         {
             "name": "ics/navigation-bundle",
