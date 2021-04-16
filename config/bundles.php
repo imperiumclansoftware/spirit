@@ -18,4 +18,5 @@ return [
     ICS\SsiBundle\SsiBundle::class => ['all' => true],
     ICS\DashboardBundle\DashboardBundle::class => ['all' => true],
     Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
+    ICS\MediaBundle\MediaBundle::class => ['all' => true],
 ];

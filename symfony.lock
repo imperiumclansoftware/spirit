@@ -115,6 +115,9 @@
     "ics/dashboard-bundle": {
         "version": "0.0.3"
     },
+    "ics/medias-bundle": {
+        "version": "0.0.2"
+    },
     "ics/navigation-bundle": {
         "version": "0.0.3"
     },

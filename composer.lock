@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "812742b56ee4ba471d231ffeb876901a",
+    "content-hash": "fb72a901031f072b143ca69f3d9cbec5",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1863,6 +1863,49 @@
                 "source": "https://github.com/imperiumclansoftware/dashboard-bundle/tree/v0.0.3"
             },
             "time": "2021-04-09T13:45:52+00:00"
+        },
+        {
+            "name": "ics/medias-bundle",
+            "version": "0.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imperiumclansoftware/medias-bundle.git",
+                "reference": "0107261af14421bb94d95bde9e26cf9b46b26c2d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imperiumclansoftware/medias-bundle/zipball/0107261af14421bb94d95bde9e26cf9b46b26c2d",
+                "reference": "0107261af14421bb94d95bde9e26cf9b46b26c2d",
+                "shasum": ""
+            },
+            "require": {
+                "easycorp/easyadmin-bundle": "^3.2",
+                "symfony/console": "^5.2",
+                "symfony/dependency-injection": "^5.2",
+                "symfony/framework-bundle": "^5.2",
+                "symfony/orm-pack": "^2.1",
+                "symfony/twig-bundle": "^5.2"
+            },
+            "suggest": {
+                "liip/imagine-bundle": "Add liip-imagine pre-configured filters",
+                "sensio/framework-extra-bundle": "Configure extra-framework"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "ICS\\MediaBundle\\": "/src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "File Manager for symfony",
+            "support": {
+                "issues": "https://github.com/imperiumclansoftware/medias-bundle/issues",
+                "source": "https://github.com/imperiumclansoftware/medias-bundle/tree/v0.0.2"
+            },
+            "time": "2021-04-15T15:21:44+00:00"
         },
         {
             "name": "ics/navigation-bundle",
