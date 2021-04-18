@@ -112,6 +112,9 @@
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.3"
     },
+    "ics/cron-bundle": {
+        "version": "0.0.3"
+    },
     "ics/dashboard-bundle": {
         "version": "0.0.3"
     },
@@ -120,6 +123,9 @@
     },
     "ics/navigation-bundle": {
         "version": "0.0.3"
+    },
+    "ics/qwant-bundle": {
+        "version": "0.0.1"
     },
     "ics/ssi-bundle": {
         "version": "0.0.7"

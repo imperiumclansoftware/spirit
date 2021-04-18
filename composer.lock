@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "788feb159a7333105530efa672c2f527",
+    "content-hash": "f5685da7b6fcbc0d129f2c0eb6a59606",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1828,6 +1828,46 @@
             "time": "2021-01-14T21:52:44+00:00"
         },
         {
+            "name": "ics/cron-bundle",
+            "version": "0.0.3",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imperiumclansoftware/cron-bundle.git",
+                "reference": "00729c432a8371b06d8bb99f5fb4e77499a25749"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imperiumclansoftware/cron-bundle/zipball/00729c432a8371b06d8bb99f5fb4e77499a25749",
+                "reference": "00729c432a8371b06d8bb99f5fb4e77499a25749",
+                "shasum": ""
+            },
+            "require": {
+                "easycorp/easyadmin-bundle": "^3.2",
+                "ics/dashboard-bundle": "^0.0.3",
+                "symfony/console": "^5.2",
+                "symfony/dependency-injection": "^5.2",
+                "symfony/framework-bundle": "^5.2",
+                "symfony/orm-pack": "^2.1",
+                "symfony/twig-bundle": "^5.2"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "ICS\\CronBundle\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Bundle de gestion des taches planifiées",
+            "support": {
+                "issues": "https://github.com/imperiumclansoftware/cron-bundle/issues",
+                "source": "https://github.com/imperiumclansoftware/cron-bundle/tree/v0.0.3"
+            },
+            "time": "2021-04-16T14:04:39+00:00"
+        },
+        {
             "name": "ics/dashboard-bundle",
             "version": "0.0.3",
             "source": {
@@ -1945,6 +1985,52 @@
                 "source": "https://github.com/imperiumclansoftware/navigation-bundle/tree/v0.0.5"
             },
             "time": "2021-04-15T09:28:52+00:00"
+        },
+        {
+            "name": "ics/qwant-bundle",
+            "version": "0.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imperiumclansoftware/qwant-bundle.git",
+                "reference": "791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imperiumclansoftware/qwant-bundle/zipball/791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8",
+                "reference": "791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8",
+                "shasum": ""
+            },
+            "require": {
+                "symfony/config": "^4.4|^5.0",
+                "symfony/console": "^5.2",
+                "symfony/dependency-injection": "^4.4|^5.0",
+                "symfony/event-dispatcher": "^4.4|^5.0",
+                "symfony/framework-bundle": "^5.2",
+                "symfony/http-client": "^5.2",
+                "symfony/intl": "^4.4|^5.0",
+                "symfony/monolog-bundle": "^3.6",
+                "symfony/orm-pack": "^2.1",
+                "symfony/security-bundle": "^5.2",
+                "symfony/string": "^5.0",
+                "symfony/translation": "^4.4|^5.0",
+                "symfony/twig-bundle": "^4.4|^5.0"
+            },
+            "type": "symfony-bundle",
+            "autoload": {
+                "psr-4": {
+                    "ICS\\QwantBundle\\": "/src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Bundle for qwant seacrh services.",
+            "support": {
+                "issues": "https://github.com/imperiumclansoftware/qwant-bundle/issues",
+                "source": "https://github.com/imperiumclansoftware/qwant-bundle/tree/v0.0.1"
+            },
+            "time": "2021-04-18T13:48:12+00:00"
         },
         {
             "name": "ics/ssi-bundle",

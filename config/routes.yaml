@@ -7,3 +7,9 @@ ssi_bundle:
 dashboard_bundle:
     resource: '@DashboardBundle/config/routes.yaml'
     prefix: /dashboard
+cron_bundle:
+    resource: '@CronBundle/config/routes.yaml'
+    prefix: /cron
+qwant_bundle:
+    resource: '@QwantBundle/config/routes.yaml'
+    prefix: /qwant

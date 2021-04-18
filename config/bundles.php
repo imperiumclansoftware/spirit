@@ -19,4 +19,6 @@ return [
     ICS\DashboardBundle\DashboardBundle::class => ['all' => true],
     Symfony\WebpackEncoreBundle\WebpackEncoreBundle::class => ['all' => true],
     ICS\MediaBundle\MediaBundle::class => ['all' => true],
+    ICS\CronBundle\CronBundle::class => ['all' => true],
+    ICS\QwantBundle\QwantBundle::class => ['all' => true],
 ];
