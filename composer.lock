@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5e1fd10362f7cf89c34fe37cce6d7a81",
+    "content-hash": "98befd14f6c7b1ee3def24f1312c7280",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -1988,16 +1988,16 @@
         },
         {
             "name": "ics/qwant-bundle",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/qwant-bundle.git",
-                "reference": "791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8"
+                "reference": "b6f785b1baa3d3b0b3e9c7799e92c6aa0b2cdf35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/qwant-bundle/zipball/791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8",
-                "reference": "791d3e60f55bc27a0a6367d4b4e4dcf3a23766f8",
+                "url": "https://api.github.com/repos/imperiumclansoftware/qwant-bundle/zipball/b6f785b1baa3d3b0b3e9c7799e92c6aa0b2cdf35",
+                "reference": "b6f785b1baa3d3b0b3e9c7799e92c6aa0b2cdf35",
                 "shasum": ""
             },
             "require": {
@@ -2028,9 +2028,9 @@
             "description": "Bundle for qwant seacrh services.",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/qwant-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/qwant-bundle/tree/v0.0.1"
+                "source": "https://github.com/imperiumclansoftware/qwant-bundle/tree/v0.0.2"
             },
-            "time": "2021-04-18T13:48:12+00:00"
+            "time": "2021-04-18T14:49:57+00:00"
         },
         {
             "name": "ics/ssi-bundle",

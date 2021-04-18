@@ -16,7 +16,7 @@
         "ics/cron-bundle": "^0.0.3",
         "ics/dashboard-bundle": "^0.0.3",
         "ics/medias-bundle": "^0.0.3",
-        "ics/qwant-bundle": "^0.0.1",
+        "ics/qwant-bundle": "^0.0.2",
         "ics/ssi-bundle": "^0.1.0",
         "phpdocumentor/reflection-docblock": "^5.2",
         "sensio/framework-extra-bundle": "^5.1",
