@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f5685da7b6fcbc0d129f2c0eb6a59606",
+    "content-hash": "5e1fd10362f7cf89c34fe37cce6d7a81",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -2034,16 +2034,16 @@
         },
         {
             "name": "ics/ssi-bundle",
-            "version": "0.0.9",
+            "version": "0.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/ssi-bundle.git",
-                "reference": "955f14942d0b5b4dda6ba046c9d7d7fee65f3edc"
+                "reference": "5a98dd40ba85383519d8b39522ce197d3c6a1262"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/955f14942d0b5b4dda6ba046c9d7d7fee65f3edc",
-                "reference": "955f14942d0b5b4dda6ba046c9d7d7fee65f3edc",
+                "url": "https://api.github.com/repos/imperiumclansoftware/ssi-bundle/zipball/5a98dd40ba85383519d8b39522ce197d3c6a1262",
+                "reference": "5a98dd40ba85383519d8b39522ce197d3c6a1262",
                 "shasum": ""
             },
             "require": {
@@ -2087,9 +2087,9 @@
             "description": "Bundle security extention",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/ssi-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.0.9"
+                "source": "https://github.com/imperiumclansoftware/ssi-bundle/tree/v0.1.0"
             },
-            "time": "2021-04-15T09:31:07+00:00"
+            "time": "2021-04-16T12:52:00+00:00"
         },
         {
             "name": "laminas/laminas-code",
