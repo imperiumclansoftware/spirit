@@ -9,7 +9,7 @@ use ICS\MediaBundle\Entity\MediaFile;
 use ICS\MediaBundle\Entity\MediaImage;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
-use ICS\SsiBundle\Entity\User;
+use ICS\SsiBundle\Entity\Account;
 use ICS\SsiBundle\Entity\Log;
 
 class DashboardController extends AbstractDashboardController
@@ -33,7 +33,7 @@ class DashboardController extends AbstractDashboardController
         yield MenuItem::linktoDashboard('Dashboard', 'fa fa-home');
         yield MenuItem::linkToRoute('Return to site','fa fa-arrow-left','homepage');
         yield MenuItem::section('Security', 'fa fa-shield');
-        yield MenuItem::linkToCrud('Users', 'fa fa-users', User::class);
+        yield MenuItem::linkToCrud('Users', 'fa fa-users', Account::class);
         yield MenuItem::linkToCrud('Logs', 'fa fa-newspaper', Log::class);
         yield MenuItem::section('Medias', 'fa fa-photo-video');
         yield MenuItem::linkToCrud('Files', 'fa fa-file', MediaFile::class);
