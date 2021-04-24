@@ -13,3 +13,6 @@ cron_bundle:
 qwant_bundle:
     resource: '@QwantBundle/config/routes.yaml'
     prefix: /qwant
+celebrity_bundle:
+    resource: '@CelebrityBundle/config/routes.yaml'
+    prefix: /celebrity

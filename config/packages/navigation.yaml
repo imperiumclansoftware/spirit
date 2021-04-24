@@ -1,6 +1,6 @@
 navigation:
   navbars:
-    mainnav:
+    main:
       brand: Spirit
       brandIcon: fa fa-ghost
       color: dark

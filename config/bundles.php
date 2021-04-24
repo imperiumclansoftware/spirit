@@ -21,4 +21,7 @@ return [
     ICS\MediaBundle\MediaBundle::class => ['all' => true],
     ICS\CronBundle\CronBundle::class => ['all' => true],
     ICS\QwantBundle\QwantBundle::class => ['all' => true],
+    Liip\ImagineBundle\LiipImagineBundle::class => ['all' => true],
+    FOS\CKEditorBundle\FOSCKEditorBundle::class => ['all' => true],
+    ICS\CelebrityBundle\CelebrityBundle::class => ['all' => true],
 ];
