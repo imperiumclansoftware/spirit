@@ -12,7 +12,7 @@ use ICS\MediaBundle\Entity\MediaImage;
 use ICS\SsiBundle\Entity\Account;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
-use ICS\SsiBundle\Entity\User;
+use ICS\SsiBundle\Entity\Account;
 use ICS\SsiBundle\Entity\Log;
 
 class DashboardController extends AbstractDashboardController
