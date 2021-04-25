@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "893f1e8d5b5fea068068bda6e0193a55",
+    "content-hash": "fc0ae1d609ddc484ba841829a582e6ee",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -2155,16 +2155,16 @@
         },
         {
             "name": "ics/celebrity-bundle",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/celebrity-bundle.git",
-                "reference": "8c9cba0885434b22778b9cfc8de9eef1042c33c4"
+                "reference": "bc3d35e78952f15bdac229b7875fcf2e225bc7b8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/celebrity-bundle/zipball/8c9cba0885434b22778b9cfc8de9eef1042c33c4",
-                "reference": "8c9cba0885434b22778b9cfc8de9eef1042c33c4",
+                "url": "https://api.github.com/repos/imperiumclansoftware/celebrity-bundle/zipball/bc3d35e78952f15bdac229b7875fcf2e225bc7b8",
+                "reference": "bc3d35e78952f15bdac229b7875fcf2e225bc7b8",
                 "shasum": ""
             },
             "require": {
@@ -2190,9 +2190,9 @@
             "description": "Bundle for celebrity management",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/celebrity-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/celebrity-bundle/tree/v0.0.2"
+                "source": "https://github.com/imperiumclansoftware/celebrity-bundle/tree/v0.0.3"
             },
-            "time": "2021-04-24T19:47:38+00:00"
+            "time": "2021-04-25T13:29:34+00:00"
         },
         {
             "name": "ics/cron-bundle",

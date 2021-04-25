@@ -13,7 +13,7 @@
         "doctrine/doctrine-fixtures-bundle": "^3.4",
         "doctrine/doctrine-migrations-bundle": "^3.1",
         "doctrine/orm": "^2.8",
-        "ics/celebrity-bundle": "^0.0.2",
+        "ics/celebrity-bundle": "^0.0.3",
         "ics/cron-bundle": "^0.0.3",
         "ics/dashboard-bundle": "^0.0.3",
         "ics/medias-bundle": "^0.0.3",
