@@ -16,7 +16,7 @@ navigation:
   usermenu:
     activate: true
     connexionroute: ics_ssi_login
-    autolib: false
+    autolib: true
     childs:
       admin:
         lib: Administration
