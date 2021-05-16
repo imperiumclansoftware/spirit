@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "530a6012a1446925e62606ce3f36a686",
+    "content-hash": "2c112b59213c2fcf0a77e53d15f56c0e",
     "packages": [
         {
             "name": "composer/package-versions-deprecated",
@@ -2159,16 +2159,16 @@
         },
         {
             "name": "ics/celebrity-bundle",
-            "version": "0.0.5",
+            "version": "0.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/imperiumclansoftware/celebrity-bundle.git",
-                "reference": "7b68fbda78c5b70c0c2d5ada282b1499d2ea4414"
+                "reference": "1e46d230233ff32fa6104ebee7f4c768434b25a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/imperiumclansoftware/celebrity-bundle/zipball/7b68fbda78c5b70c0c2d5ada282b1499d2ea4414",
-                "reference": "7b68fbda78c5b70c0c2d5ada282b1499d2ea4414",
+                "url": "https://api.github.com/repos/imperiumclansoftware/celebrity-bundle/zipball/1e46d230233ff32fa6104ebee7f4c768434b25a1",
+                "reference": "1e46d230233ff32fa6104ebee7f4c768434b25a1",
                 "shasum": ""
             },
             "require": {
@@ -2194,9 +2194,9 @@
             "description": "Bundle for celebrity management",
             "support": {
                 "issues": "https://github.com/imperiumclansoftware/celebrity-bundle/issues",
-                "source": "https://github.com/imperiumclansoftware/celebrity-bundle/tree/v0.0.5"
+                "source": "https://github.com/imperiumclansoftware/celebrity-bundle/tree/v0.0.6"
             },
-            "time": "2021-05-16T10:57:19+00:00"
+            "time": "2021-05-16T14:45:27+00:00"
         },
         {
             "name": "ics/cron-bundle",
@@ -9171,16 +9171,16 @@
         },
         {
             "name": "twig/twig",
-            "version": "v3.3.1",
+            "version": "v3.3.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/twigphp/Twig.git",
-                "reference": "ac44433c49892bf28d47c852b19832f3823bd351"
+                "reference": "21578f00e83d4a82ecfa3d50752b609f13de6790"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/twigphp/Twig/zipball/ac44433c49892bf28d47c852b19832f3823bd351",
-                "reference": "ac44433c49892bf28d47c852b19832f3823bd351",
+                "url": "https://api.github.com/repos/twigphp/Twig/zipball/21578f00e83d4a82ecfa3d50752b609f13de6790",
+                "reference": "21578f00e83d4a82ecfa3d50752b609f13de6790",
                 "shasum": ""
             },
             "require": {
@@ -9231,7 +9231,7 @@
             ],
             "support": {
                 "issues": "https://github.com/twigphp/Twig/issues",
-                "source": "https://github.com/twigphp/Twig/tree/v3.3.1"
+                "source": "https://github.com/twigphp/Twig/tree/v3.3.2"
             },
             "funding": [
                 {
@@ -9243,7 +9243,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-05-12T08:05:35+00:00"
+            "time": "2021-05-16T12:14:13+00:00"
         },
         {
             "name": "webmozart/assert",
